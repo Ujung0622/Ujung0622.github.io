@@ -1,0 +1,43 @@
+title: Blog
+description: 글로벌 개발자를 꿈꾸는 신입 개발자의 블로그
+author: Yujung Park
+avatar: /bp.jpeg
+email: yujungpark622@gmail.com
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 10
+
+# Uncomment the below line and set the tracking ID for enabling Google Analytics
+# 
+# google_analytics: 
+
+# Uncomment the below lines and set the Disqus shortname for enabling Disqus
+# 
+# disqus:
+
+# Jekyll
+# ======
+exclude:
+  - scripts/
+  - README.md
+  - jekyll-theme-hamilton.gemspec
+
+# Jekyll SEO Tag (Optional)
+# =========================
+twitter:
+  username: Sylvia
+  card: summary
+logo: bp.jpeg
+social:
+  name: Yujung Park
+  links:
+    - https://twitter.com/ngzhio
+    - https://www.facebook.com/ngzhio
+    - https://github.com/Ujung0622
+google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+lang: en
