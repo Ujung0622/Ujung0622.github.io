@@ -6,9 +6,9 @@
   url: /categories/
 - title: Tags
   url: /tags/
-- title: More
+- title: Project
   sublinks:
-    - title: FAQ
-      url: /faq/
+    - title: Hiking
+      url: /hiking/
     - title: Docs
       url: /docs/

@@ -3,6 +3,7 @@ description: 글로벌 개발자를 꿈꾸는 신입 개발자의 블로그
 author: Yujung Park
 avatar: /bp.jpeg
 email: yujungpark622@gmail.com
+location: KR (Republic of)
 
 plugins:
   - jekyll-seo-tag

@@ -25,15 +25,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e1366d8-ae74-42a5-aaab-60eba60881c2" name="Default Changelist" comment="생고기 제작">
+    <list default="true" id="5e1366d8-ae74-42a5-aaab-60eba60881c2" name="Default Changelist" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-01-11-task-item-list.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-01-11-task-item-list.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-05-19-super-short-article.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-05-20-my-example-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-05-20-this-post-demonstrates-post-content-styles.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-05-20-this-post-demonstrates-post-content-styles.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-05-20-welcome-to-jekyll.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-05-20-welcome-to-jekyll.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-20-First-posting.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-20-First-posting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/social.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/social.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605854845477</updated>
       <workItem from="1605854847205" duration="2689000" />
-      <workItem from="1608612471769" duration="7151000" />
+      <workItem from="1608612471769" duration="10257000" />
     </task>
     <task id="LOCAL-00001" summary="첫포스팅">
       <created>1605857888157</created>
@@ -95,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608615417985</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <created>1608621706394</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608621706394</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,17 +133,18 @@
     <MESSAGE value="첫포스팅" />
     <MESSAGE value="첫포스팅 카테고리편집" />
     <MESSAGE value="생고기 제작" />
-    <option name="LAST_COMMIT_MESSAGE" value="생고기 제작" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1209" y="298" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1608619520592">
       <screen x="-1920" y="-104" width="1920" height="1080" />
     </state>
     <state x="-1209" y="298" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900/-1920.-104.1920.1080@-1920.-104.1920.1080" timestamp="1608619520592" />
-    <state x="-1493" y="124" key="Vcs.Push.Dialog.v2" timestamp="1608615467378">
+    <state x="-1493" y="124" key="Vcs.Push.Dialog.v2" timestamp="1608621727430">
       <screen x="-1920" y="-104" width="1920" height="1080" />
     </state>
-    <state x="-1493" y="124" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-104.1920.1080@-1920.-104.1920.1080" timestamp="1608615467378" />
+    <state x="-1493" y="124" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-104.1920.1080@-1920.-104.1920.1080" timestamp="1608621727430" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605858486525" />
     <state x="-1295" y="137" width="670" height="676" key="search.everywhere.popup" timestamp="1608615710257">
       <screen x="-1920" y="-104" width="1920" height="1080" />
