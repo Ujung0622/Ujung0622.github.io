@@ -3,7 +3,8 @@ layout: post
 toc: true
 title: "This post demonstrates post content styles"
 categories: junk
-tags: [markdown, css, html]
+tags: [예시]
+
 author:
   - Bart Simpson
   - Nelson Mandela Muntz

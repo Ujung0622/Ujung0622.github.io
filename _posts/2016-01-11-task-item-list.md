@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Task Item List
-tags: [to-do list]
+categories: junk
+tags: [예시]
 ---
 
 This post tests the style of a task item list.
