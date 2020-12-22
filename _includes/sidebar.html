@@ -17,18 +17,19 @@
         <span class="contact-info p-name">{{ site.author | escape }}</span>
       </li>
     {%- endif %}
+    {% if site.location -%}
+    <li>
+      <i class="sidebar-icon fas fa-location-arrow"></i>
+      <a class="contact-info u-location" href="https://www.google.com/maps/search/{{ site.location }}">{{ site.location }}</a>
+    </li>
+    {%- endif %}
     {% if site.email -%}
       <li>
         <i class="sidebar-icon fas fa-envelope"></i>
         <a class="contact-info u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
       </li>
     {%- endif %}
-    {% if site.location -%}
-      <li>
-        <i class="sidebar-icon fas fa-location-arrow"></i>
-        <a class="contact-info u-location" href="https://www.google.com/maps/search/{{ site.location }}">{{ site.location }}</a>
-      </li>
-    {%- endif %}
+
   </ul>
 </div>
 

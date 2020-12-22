@@ -25,13 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e1366d8-ae74-42a5-aaab-60eba60881c2" name="Default Changelist" comment="1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/social.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/social.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
-    </list>
+    <list default="true" id="5e1366d8-ae74-42a5-aaab-60eba60881c2" name="Default Changelist" comment="2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605854845477</updated>
       <workItem from="1605854847205" duration="2689000" />
-      <workItem from="1608612471769" duration="10257000" />
+      <workItem from="1608612471769" duration="10595000" />
     </task>
     <task id="LOCAL-00001" summary="첫포스팅">
       <created>1605857888157</created>
@@ -99,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608621706394</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2">
+      <created>1608626581876</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608626581876</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,18 +135,20 @@
     <MESSAGE value="첫포스팅 카테고리편집" />
     <MESSAGE value="생고기 제작" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1209" y="298" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1608619520592">
       <screen x="-1920" y="-104" width="1920" height="1080" />
     </state>
     <state x="-1209" y="298" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900/-1920.-104.1920.1080@-1920.-104.1920.1080" timestamp="1608619520592" />
-    <state x="-1493" y="124" key="Vcs.Push.Dialog.v2" timestamp="1608621727430">
+    <state x="-1493" y="124" key="Vcs.Push.Dialog.v2" timestamp="1608626589800">
       <screen x="-1920" y="-104" width="1920" height="1080" />
     </state>
     <state x="-1493" y="124" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-104.1920.1080@-1920.-104.1920.1080" timestamp="1608621727430" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605858486525" />
+    <state x="-1493" y="124" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1920.-104.1920.1080@-1920.-104.1920.1080" timestamp="1608626589800" />
     <state x="-1295" y="137" width="670" height="676" key="search.everywhere.popup" timestamp="1608615710257">
       <screen x="-1920" y="-104" width="1920" height="1080" />
     </state>
